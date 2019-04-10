@@ -1,0 +1,16 @@
+{
+  "name": "redis-static",
+  "version": "1.0.0",
+  "description": "Static binaries for redis.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldrian/redis-static.git"
+  },
+  "keywords": [
+    "redis",
+    "ffmpeg"
+  ],
+  "author": "aldrian",
+  "license": "MIT"
+}
